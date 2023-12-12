@@ -1,0 +1,4 @@
+﻿  StringLysenko.cpp
+c:\users\влад\source\repos\stringlysenko\stringlysenko\string.h(18): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\влад\source\repos\stringlysenko\stringlysenko\string.h(31): warning C4018: <: несоответствие типов со знаком и без знака
+  StringLysenko.vcxproj -> C:\Users\Влад\source\repos\StringLysenko\Debug\StringLysenko.exe
